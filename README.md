@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @pantaLuc
-👀 I’m interested in web and mobile development, data analysis, and IoT. I find the intersection of these fields fascinating and love exploring ways to leverage technology for innovative solutions.
-- 🌱 I’m currently learning new technologies and frameworks to enhance my skills. I believe in continuous learning and staying up-to-date with the latest trends and advancements in the industry.
--💞️ I have collaborated on exciting projects involving innovative technologies and solutions. I enjoy working in teams where I can contribute my expertise and learn from others to create impactful and cutting-edge applications.
-- 📫 How to reach me: You can reach me through email at lucapameni@gmail.com or connect with me on LinkedIn at LinkedIn Profile. Feel free to reach out if you have any interesting projects or opportunities to discuss.
-<!---
-pantaLuc/pantaLuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a software engineer at AXA France, I design and maintain robust back-end solutions in Java and Python, with a core specialization in BRMS (Business Rules Management Systems) and API development. I also work with technologies such as Spring Boot, Kafka, and Docker to build modern, scalable architectures that support critical business operations.
+Alongside my industry role, I serve as a part-time lecturer at the University of Rouen, where I teach Distributed Architecture to M1 students and Cloud Computing to M2 students. My courses focus on key industry shifts â€” from monolithic systems to microservices, container orchestration, and the ecosystems built around these paradigms.
+This dual profile - practitioner by day, educator by vocation  , allows me to bring real-world context into the classroom and a critical, forward-looking perspective back into my engineering work.
