@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Luc Perin PANTA 👋</h1>
 
 <p align="center">
   <strong>Software Engineer @ AXA France</strong> · <strong>Lecturer @ University of Rouen</strong>
