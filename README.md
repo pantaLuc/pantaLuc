@@ -45,4 +45,4 @@ My courses explore the shift from monolithic systems to **microservices**, conta
 
 ## 📫 Get in touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or explore my repositories below!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luc-perin-panta-6b0b36173) or explore my repositories below!
