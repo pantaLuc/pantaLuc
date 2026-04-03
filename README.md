@@ -35,7 +35,7 @@ My courses explore the shift from monolithic systems to **microservices**, conta
 | Domain | Tools |
 |---|---|
 | Languages | Java, Python |
-| Frameworks | Spring Boot |
+| Frameworks | Spring Boot,Fast API |
 | Messaging | Apache Kafka |
 | Containers | Docker |
 | Architecture | BRMS, REST APIs, Microservices |
